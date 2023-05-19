@@ -1,3 +1,4 @@
+![MasterHead](https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif)
 <h1 align="center">Welcome to Sharon Menezes' GitHub</h1>
 <h3 align="center">A passionate Programming Student with a motive to work with various Web Development and Compiler Tools</h3>
 
