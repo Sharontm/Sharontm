@@ -29,4 +29,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharontm&" alt="sharontm" width="425" height="325" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sharontm&show_icons=true&locale=en" alt="sharontm" width="400" height="300" /></p>
-<img src="https://i.gifer.com/1kc1.gif" class="center" width="1200" height="500">
