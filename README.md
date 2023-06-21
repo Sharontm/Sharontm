@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharontm&label=Profile%20views&color=0e75b6&style=flat" alt="sharontm" /> </p>
 
-- 🔭 Currently working on **JLox**
+- 🔭 Currently working on **CLox**
 
 - 🌱 Currently learning **Databases, App and Web Development**
 
