@@ -20,7 +20,6 @@
 <a href="https://twitter.com/sharontmenezes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharontmenezes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sharon tyana menezes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharon tyana menezes" height="30" width="40" /></a>
 <a href="https://kaggle.com/sharon tyana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sharon tyana" height="30" width="40" /></a>
-<a href="https://instagram.com/sharon.tm_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharon.tm_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sharontm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sharontm" height="30" width="40" /></a>
 </p>
 
