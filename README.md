@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" align="center" width="1200" height="350">
+[![@Sharontm's Holopin board](https://holopin.me/Sharontm)](https://holopin.io/@Sharontm) <div align="center">Visitor Counter</div> <div align="center"> ![](https://komarev.com/ghpvc/?username=Sharontm&color=green) </div>
 <h1 align="center">Welcome to Sharon Menezes' GitHub</h1>
 <h3 align="center">A passionate Programming Student with a motive to work with various Web Development and Compiler Tools</h3>
 
