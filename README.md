@@ -2,9 +2,10 @@
 <h1 align="center">Welcome to Sharon Menezes' GitHub</h1>
 <h3 align="center">A passionate Programming Student with a motive to work with various Web Development and Compiler Tools</h3>
 <br> <br>
-- 🔭 Currently working on **NLPs and LLMs**
+
 
 - 🌱 Currently learning **Machine Learning, App and Web Development**
+- 🔭 Currently working on **NLPs and LLMs**
 
 - 📖 Currently studying **B.E. in Computer Science and Business Systems** at **St Joseph Enginnering College, Mangaluru**
 
