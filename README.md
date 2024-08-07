@@ -10,7 +10,7 @@
 
 - 🏠 Currently residing in **Mangalore, Karnataka, India**
 
-- 📫 Email: **sharontyana@gmail.com** or **21i27.sharon@sjec.ac.in**
+- 📫 Email: **sharonmenezes13@gmail.com** or **21i27.sharon@sjec.ac.in**
 <br><br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
